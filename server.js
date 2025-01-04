@@ -10,7 +10,7 @@ const PORT = 5000;
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:3001",
-  "https://simbrella-task-backend.vercel.app/",
+  "https://simbrella-task-backend.vercel.app",
 ];
 
 app.use(
